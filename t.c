@@ -1,3 +1,10 @@
+/*
+PREREQUISITE before running: 2 empty files called 'a' and 'b' like
+# gcc -o t t.c
+# touch a b
+# ./t
+*/
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <sys/types.h>
